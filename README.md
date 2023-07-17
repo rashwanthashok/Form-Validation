@@ -18,7 +18,7 @@ This is a form validation site developed by TG Codes. It validates the user's in
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Form-Validation/
+     https://rashwanthashok.github.io/Form-Validation/
 ## Getting Started:
 
 To use the TG Codes💛 Mini Calendar web page, follow these steps:
