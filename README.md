@@ -78,7 +78,8 @@ Note: The JavaScript code can be updated to provide more specific alerts or addi
 
 - Form submission success alert.
 
-
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03ec12e9-dcea-438c-a92e-e5f6820efe13/deploy-status)](https://app.netlify.com/sites/jsprojects16-form-validation/deploys)
 ## Contributing
 
 Contributions are always welcome!
