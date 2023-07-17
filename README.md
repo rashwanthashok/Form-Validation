@@ -5,7 +5,7 @@
 Rashwanth - Form Validation
 ## Description 
 
-This is a form validation site developed by TG Codes. It validates the user's input for full name, phone number, email address, and message. The form provides real-time validation with error messages for incorrect inputs. The UI is designed with a clean and user-friendly interface. It includes features like checking full name format, phone number length, email format, and message length. Upon successful validation, the form is submitted, and an alert message is displayed. The site is implemented with HTML, CSS, and JavaScript.
+This is a form validation site developed by Rashwanth. It validates the user's input for full name, phone number, email address, and message. The form provides real-time validation with error messages for incorrect inputs. The UI is designed with a clean and user-friendly interface. It includes features like checking full name format, phone number length, email format, and message length. Upon successful validation, the form is submitted, and an alert message is displayed. The site is implemented with HTML, CSS, and JavaScript.
 
 
 
@@ -20,8 +20,8 @@ Live Demo:
 
      https://rashwanthashok.github.io/Form-Validation/
 ## Getting Started:
-
-To use the TG Codes💛 Mini Calendar web page, follow these steps:
+ 
+To use the Rashwanth Mini Calendar web page, follow these steps:
 
 1. Download the source code:
     
